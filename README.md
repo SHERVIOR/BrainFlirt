@@ -18,7 +18,7 @@ This project leverages **Python** for data processing and real-time interaction.
 ## Requirements
 
 - **Python 3.x**
-- **g.tec EEG hardware** for signal collection (Cyton Daisy Board with 16 channels).
+- **Muse 2** for signal collection.
 - **MNE** for EEG data processing.
 - **OpenAI API** for ChatGPT interaction.
 - Other dependencies (listed below).
